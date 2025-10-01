@@ -6,6 +6,8 @@ description: Lecture notes about HPSG, infinitival complementation/a-bar depende
 file: /courses/24-960-syntactic-models-spring-2006/b5984fbff1c7d7b394d0df6e8e7048ea_l02_hpsg2.pdf
 file_size: 109439
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,6 +6,8 @@ description: Lecture notes about how HPSG works, feature structures and grammar 
 file: /courses/24-960-syntactic-models-spring-2006/7336f5dc698a82339fe59f09919f8770_l01_hpsg.pdf
 file_size: 169591
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

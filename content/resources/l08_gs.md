@@ -5,6 +5,8 @@ description: Lecture notes about standard theory to generative semantics, Katz-P
 file: /courses/24-960-syntactic-models-spring-2006/e0210595d3b8276f7407ee41198e8b76_l08_gs.pdf
 file_size: 120509
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

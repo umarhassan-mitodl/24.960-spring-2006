@@ -4,6 +4,8 @@ description: Lecture notes with an overview of the basic concepts of LFG.
 file: /courses/24-960-syntactic-models-spring-2006/8984bb84d96c27d6365219d0c0c8bcd3_l03_lfg.pdf
 file_size: 107136
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

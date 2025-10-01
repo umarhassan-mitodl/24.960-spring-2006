@@ -5,6 +5,8 @@ description: Lecture notes about derivations/representations vs. English auxilia
 file: /courses/24-960-syntactic-models-spring-2006/eb19107151b40dcad244ae4c0363dd8e_l07_auxiliaries.pdf
 file_size: 155438
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

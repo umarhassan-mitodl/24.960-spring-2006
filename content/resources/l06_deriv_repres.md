@@ -5,6 +5,8 @@ description: Lecture notes about non-derivational principles and parameters/mini
 file: /courses/24-960-syntactic-models-spring-2006/0d540556d6ad422525450129606c482d_l06_deriv_repres.pdf
 file_size: 216367
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: 'Lecture notes about the making of the modern syntactic world and t
 file: /courses/24-960-syntactic-models-spring-2006/138e33351ae5925309fc188394033087_l11_1970s_syntax.pdf
 file_size: 124340
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
